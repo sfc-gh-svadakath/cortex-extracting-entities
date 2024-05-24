@@ -3,7 +3,7 @@
     "password": "",
     "account": "gqb54532.us-east-1",
     "role": "ACCOUNTADMIN",
-    "warehouse": "MY_HOL_WH",
+    "warehouse": "DEV_WH",
     "database": "TESTING_STUFF",
     "schema": "SNOWFLAKE_LLM"
 
